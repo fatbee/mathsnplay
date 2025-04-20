@@ -1,4 +1,4 @@
-# Math Playground
+# Math Playground (mathsnplay)
 
 A fun and interactive math learning application for primary school students.
 
